@@ -44,8 +44,8 @@ curl -fsSL https://raw.githubusercontent.com/LT5B/hackguitroll/refs/heads/main/t
 + Step 2: Write "cmd"
 + Step 3: Run your command
 
-## How to install Python
-- Install Python:
-+ Open [Main python script website](<https://www.python.org>) to install
+## How to install Python:
+
+open [Main python script website](<https://www.python.org>) to install
 
 <img width="1440" height="900" alt="Ảnh màn hình 2026-09-21 lúc 20 04 05" src="https://github.com/user-attachments/assets/0ca99e86-87a2-4c3a-a3d9-c4a209f0b2be" />
