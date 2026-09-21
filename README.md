@@ -12,4 +12,12 @@ curl -fsSL https://raw.githubusercontent.com/LT5B/hackguitroll/refs/heads/main/u
 curl -fsSL https://raw.githubusercontent.com/LT5B/hackguitroll/refs/heads/main/windows.py | python3
 ```
 
+- For Termux
+```termux
+pkg update
+pkg upgrade
+pkg install python
+curl -fsSL https://raw.githubusercontent.com/LT5B/hackguitroll/refs/heads/main/termux.py | python3
+```
+
 <img width="1440" height="900" alt="Ảnh màn hình 2026-09-21 lúc 20 04 05" src="https://github.com/user-attachments/assets/0ca99e86-87a2-4c3a-a3d9-c4a209f0b2be" />
